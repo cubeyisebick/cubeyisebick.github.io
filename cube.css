@@ -7,6 +7,12 @@
     display: inline-block;
 }
 
+.topnav {
+  margin: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
 .topnav a {
   background-color: #242424;
   float: left;
